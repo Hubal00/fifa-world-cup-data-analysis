@@ -49,7 +49,7 @@ The analysis was conducted using Excel with a focus on data cleaning, statistica
   - Goal difference with `=ABS(Home Score - Away Score)`
 - Extracted the **year** from match dates using the `YEAR()` function to enable trend analysis.
 
-![Home Advantage Bar Chart](fifa-world-cup-data-analysis/visuals/home_advantage_bar_chart.png)
+![Data Cleaning & Preperation](fifa-world-cup-data-analysis/visuals/Picture_1.png)
 
 ### 1. 📈 Home Advantage
 
