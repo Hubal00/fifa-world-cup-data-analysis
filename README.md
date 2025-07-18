@@ -73,7 +73,7 @@ The analysis was conducted using Excel with a focus on data cleaning, statistica
   - Brazil vs. Mexico
   - Netherlands vs. Argentina
 
-![Matchup Pivot Table](visuals/matchups_pivot_table.png)
+![Matchup Pivot Table](fifa-world-cup-data-analysis/visuals/matchups_pivot_table.png)
 
 ---
 
