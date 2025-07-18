@@ -96,10 +96,9 @@ The analysis was conducted using Excel with a focus on data cleaning, statistica
 ## 📁 Project Structure
 
 fifa-world-cup-data-analysis/
-│
-├── data/ # Raw and filtered datasets
-├── analysis/ # Excel workbook with analysis
-├── visuals/ # Screenshots and charts
-├── docs/ # Optional report or supporting files
-└── README.md # This file
+data/ # Raw and filtered datasets
+analysis/ # Excel workbook with analysis
+visuals/ # Screenshots and charts
+docs/ # Optional report or supporting files
+README.md # This file
 
