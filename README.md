@@ -57,7 +57,7 @@ The analysis was conducted using Excel with a focus on data cleaning, statistica
 - Calculated average **goal difference per tournament** using Pivot Table.
 - Used a **line chart with a trendline** to visualize changes over time.
 
-![Goal Difference Line Chart](visuals/goal_diff_trendline.png)
+![Goal Difference Line Chart](fifa-world-cup-data-analysis/visuals/goal_diff_trendline.png)
 
 - 🧠 Insight: Goal differences have decreased over time, suggesting greater parity between teams, especially after tournament expansions.
 
