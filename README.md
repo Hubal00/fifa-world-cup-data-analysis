@@ -39,6 +39,18 @@ The analysis was conducted using Excel with a focus on data cleaning, statistica
 
 ## 🔍 Analysis & Methodology
 
+### 0. 🧹 Data Cleaning & Preparation
+
+- Filtered the dataset to isolate **FIFA World Cup** matches from general international fixtures.
+- Corrected **spelling errors in city names** using Excel’s Spelling tool.
+- Used `ISNUMBER()` to validate score formats and ensure numeric consistency.
+- Added calculated columns:
+  - Match outcome with `=IF(Home Score > Away Score, TRUE, FALSE)`
+  - Goal difference with `=ABS(Home Score - Away Score)`
+- Extracted the **year** from match dates using the `YEAR()` function to enable trend analysis.
+
+![Home Advantage Bar Chart](fifa-world-cup-data-analysis/visuals/home_advantage_bar_chart.png)
+
 ### 1. 📈 Home Advantage
 
 - Analyzed win rates of host nations.
