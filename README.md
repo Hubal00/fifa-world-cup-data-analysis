@@ -47,7 +47,7 @@ The analysis was conducted using Excel with a focus on data cleaning, statistica
   - Z-statistic: `2.46` vs. Critical Value: `1.64`
 - ✅ **Conclusion**: Statistically significant home advantage exists.
 
-![Home Advantage Bar Chart](visuals/home_advantage_bar_chart.png)
+![Home Advantage Bar Chart](fifa-world-cup-data-analysis/visuals/home advantage bar chart.png)
 
 ---
 
