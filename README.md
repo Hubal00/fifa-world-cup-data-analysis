@@ -102,3 +102,18 @@ The analysis was conducted using Excel with a focus on data cleaning, statistica
 - docs/ # Optional report or supporting files
 - README.md # This file
 
+
+---
+
+## 👤 Author
+
+**Maksymilian Leczyk**  
+Data Analyst | Business Analyst | Quality Analyst  
+[LinkedIn](https://www.linkedin.com/in/maksymilian-leczyk/)  
+
+---
+
+## 📄 License
+
+This project is for educational and portfolio purposes.  
+Please check the original [Kaggle dataset license](https://www.kaggle.com/datasets/aissaouihamda/international-football-matches-1872-present) for usage restrictions.
